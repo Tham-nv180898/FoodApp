@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/drawable/_favorite.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/drawable/bg_indicator.xml" value="0.1205" />
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/drawable/favorite.xml" value="0.1005" />
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/drawable/home.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/drawable/ic_area.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/drawable/ic_category.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/drawable/no_favorite.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/layout/activity_bottom_tabs.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/layout/activity_meal.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/layout/activity_meal_detailes.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/layout/category_card.xml" value="0.26856884057971014" />
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/layout/fav_meal_card.xml" value="0.1766304347826087" />
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/layout/fragment_favorite.xml" value="0.2989583333333333" />
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/layout/fragment_home.xml" value="0.26856884057971014" />
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/layout/fragment_settings.xml" value="0.26856884057971014" />
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/layout/meal_card.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/layout/most_popular_card.xml" value="0.26856884057971014" />
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/layout/suggest_card.xml" value="0.26856884057971014" />
+        <entry key="..\:/Users/Admin/FoodApp/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.33116883116883117" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
